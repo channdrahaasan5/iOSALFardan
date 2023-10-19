@@ -1,0 +1,697 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "D13ACFAD-DC93-4D2F-A6D1-6F9912778FC8"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "EBE85347-A122-4BA9-BBF4-E4BF989D30D3"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "iOSSample/UserDataClass.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "88"
+            endingLineNumber = "88"
+            landmarkName = "retrieveFromJsonFile()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "EBE85347-A122-4BA9-BBF4-E4BF989D30D3 - 6cbaafda5a39b618"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "iOSSample.UserDataClass.retrieveFromJsonFile() -&gt; Swift.Array&lt;__C.NSDictionary&gt;"
+                  moduleName = "iOSSample"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/prabhakarbunga/Desktop/Haasan%20Practice/iOSSample/iOSSample/UserDataClass.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "89"
+                  endingLineNumber = "89"
+                  offsetFromSymbolStart = "2016">
+               </Location>
+               <Location
+                  uuid = "EBE85347-A122-4BA9-BBF4-E4BF989D30D3 - 6cbaafda5a39b639"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "iOSSample.UserDataClass.retrieveFromJsonFile() -&gt; Swift.Array&lt;__C.NSDictionary&gt;"
+                  moduleName = "iOSSample"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/prabhakarbunga/Desktop/Haasan%20Practice/iOSSample/iOSSample/UserDataClass.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "88"
+                  endingLineNumber = "88"
+                  offsetFromSymbolStart = "712">
+               </Location>
+               <Location
+                  uuid = "EBE85347-A122-4BA9-BBF4-E4BF989D30D3 - 6cbaafda5a39b647"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "iOSSample.UserDataClass.retrieveFromJsonFile() -&gt; Swift.Array&lt;__C.NSDictionary&gt;"
+                  moduleName = "iOSSample"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/prabhakarbunga/Desktop/Haasan%20Practice/iOSSample/iOSSample/UserDataClass.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "90"
+                  endingLineNumber = "90"
+                  offsetFromSymbolStart = "712">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "6CBEB008-DD83-4B54-A64E-984A32FF242C"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "iOSSample/UserDataClass.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "99"
+            endingLineNumber = "99"
+            landmarkName = "isUserValide(email_id:password:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "6CBEB008-DD83-4B54-A64E-984A32FF242C - 62c34a7b41ace1b6"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "iOSSample.UserDataClass.isUserValide(email_id: Swift.String, password: Swift.String) -&gt; Swift.Bool"
+                  moduleName = "iOSSample"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/prabhakarbunga/Desktop/Haasan%20Practice/iOSSample/iOSSample/UserDataClass.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "99"
+                  endingLineNumber = "99"
+                  offsetFromSymbolStart = "1296">
+               </Location>
+               <Location
+                  uuid = "6CBEB008-DD83-4B54-A64E-984A32FF242C - 62c34a7b41ace195"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "iOSSample.UserDataClass.isUserValide(email_id: Swift.String, password: Swift.String) -&gt; Swift.Bool"
+                  moduleName = "iOSSample"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/prabhakarbunga/Desktop/Haasan%20Practice/iOSSample/iOSSample/UserDataClass.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "100"
+                  endingLineNumber = "100"
+                  offsetFromSymbolStart = "328">
+               </Location>
+               <Location
+                  uuid = "6CBEB008-DD83-4B54-A64E-984A32FF242C - 62c34a7b41ace1d3"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "iOSSample.UserDataClass.isUserValide(email_id: Swift.String, password: Swift.String) -&gt; Swift.Bool"
+                  moduleName = "iOSSample"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/prabhakarbunga/Desktop/Haasan%20Practice/iOSSample/iOSSample/UserDataClass.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "102"
+                  endingLineNumber = "102"
+                  offsetFromSymbolStart = "328">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "5B9E691D-6CC2-4592-837E-7D1D09659F60"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "iOSSample/RegistrationView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "41"
+            endingLineNumber = "41"
+            landmarkName = "body"
+            landmarkType = "24">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "FC5F3C49-1FCF-4B16-9E23-543F84427EE9"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "iOSSample/UserDataClass.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "60"
+            endingLineNumber = "60"
+            landmarkName = "registeruser(user:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "FC5F3C49-1FCF-4B16-9E23-543F84427EE9 - 7976195b66a3477c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "iOSSample.UserDataClass.registeruser(user: __C.NSDictionary) -&gt; Swift.Bool"
+                  moduleName = "iOSSample"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/prabhakarbunga/Desktop/Haasan%20Practice/iOSSample/iOSSample/UserDataClass.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "60"
+                  endingLineNumber = "60"
+                  offsetFromSymbolStart = "4132">
+               </Location>
+               <Location
+                  uuid = "FC5F3C49-1FCF-4B16-9E23-543F84427EE9 - 7976195b66a3477c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "iOSSample.UserDataClass.registeruser(user: __C.NSDictionary) -&gt; Swift.Bool"
+                  moduleName = "iOSSample"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/prabhakarbunga/Desktop/Haasan%20Practice/iOSSample/iOSSample/UserDataClass.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "60"
+                  endingLineNumber = "60"
+                  offsetFromSymbolStart = "1760">
+               </Location>
+               <Location
+                  uuid = "FC5F3C49-1FCF-4B16-9E23-543F84427EE9 - 7976195b66a3473a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "iOSSample.UserDataClass.registeruser(user: __C.NSDictionary) -&gt; Swift.Bool"
+                  moduleName = "iOSSample"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/prabhakarbunga/Desktop/Haasan%20Practice/iOSSample/iOSSample/UserDataClass.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "62"
+                  endingLineNumber = "62"
+                  offsetFromSymbolStart = "2480">
+               </Location>
+               <Location
+                  uuid = "FC5F3C49-1FCF-4B16-9E23-543F84427EE9 - 7976195b66a3473a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "iOSSample.UserDataClass.registeruser(user: __C.NSDictionary) -&gt; Swift.Bool"
+                  moduleName = "iOSSample"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/prabhakarbunga/Desktop/Haasan%20Practice/iOSSample/iOSSample/UserDataClass.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "62"
+                  endingLineNumber = "62"
+                  offsetFromSymbolStart = "2440">
+               </Location>
+               <Location
+                  uuid = "FC5F3C49-1FCF-4B16-9E23-543F84427EE9 - 7976195b66a3473a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "iOSSample.UserDataClass.registeruser(user: __C.NSDictionary) -&gt; Swift.Bool"
+                  moduleName = "iOSSample"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/prabhakarbunga/Desktop/Haasan%20Practice/iOSSample/iOSSample/UserDataClass.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "62"
+                  endingLineNumber = "62"
+                  offsetFromSymbolStart = "2400">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "1575745C-A06D-4230-8D03-F58A249654EC"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "iOSSample/UserDataClass.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "92"
+            endingLineNumber = "92"
+            landmarkName = "retrieveFromJsonFile()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "1575745C-A06D-4230-8D03-F58A249654EC - 62c34a7b41acfefc"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "iOSSample.UserDataClass.isUserValide(email_id: Swift.String, password: Swift.String) -&gt; Swift.Bool"
+                  moduleName = "iOSSample"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/prabhakarbunga/Desktop/Haasan%20Practice/iOSSample/iOSSample/UserDataClass.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "93"
+                  endingLineNumber = "93"
+                  offsetFromSymbolStart = "144">
+               </Location>
+               <Location
+                  uuid = "1575745C-A06D-4230-8D03-F58A249654EC - 6cbaafda5a39b785"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "iOSSample.UserDataClass.retrieveFromJsonFile() -&gt; Swift.Array&lt;__C.NSDictionary&gt;"
+                  moduleName = "iOSSample"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/prabhakarbunga/Desktop/Haasan%20Practice/iOSSample/iOSSample/UserDataClass.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "92"
+                  endingLineNumber = "92"
+                  offsetFromSymbolStart = "1736">
+               </Location>
+               <Location
+                  uuid = "1575745C-A06D-4230-8D03-F58A249654EC - 6cbaafda5a39b7c3"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "iOSSample.UserDataClass.retrieveFromJsonFile() -&gt; Swift.Array&lt;__C.NSDictionary&gt;"
+                  moduleName = "iOSSample"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/prabhakarbunga/Desktop/Haasan%20Practice/iOSSample/iOSSample/UserDataClass.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "94"
+                  endingLineNumber = "94"
+                  offsetFromSymbolStart = "1736">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "85D592D3-BC5B-46B7-A10A-BE62457B405E"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "iOSSample/UserDataClass.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "90"
+            endingLineNumber = "90"
+            landmarkName = "retrieveFromJsonFile()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "85D592D3-BC5B-46B7-A10A-BE62457B405E - 6cbaafda5a39b647"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "iOSSample.UserDataClass.retrieveFromJsonFile() -&gt; Swift.Array&lt;__C.NSDictionary&gt;"
+                  moduleName = "iOSSample"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/prabhakarbunga/Desktop/Haasan%20Practice/iOSSample/iOSSample/UserDataClass.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "90"
+                  endingLineNumber = "90"
+                  offsetFromSymbolStart = "2208">
+               </Location>
+               <Location
+                  uuid = "85D592D3-BC5B-46B7-A10A-BE62457B405E - 6cbaafda5a39b647"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "iOSSample.UserDataClass.retrieveFromJsonFile() -&gt; Swift.Array&lt;__C.NSDictionary&gt;"
+                  moduleName = "iOSSample"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/prabhakarbunga/Desktop/Haasan%20Practice/iOSSample/iOSSample/UserDataClass.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "90"
+                  endingLineNumber = "90"
+                  offsetFromSymbolStart = "1424">
+               </Location>
+               <Location
+                  uuid = "85D592D3-BC5B-46B7-A10A-BE62457B405E - 6cbaafda5a39b785"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "iOSSample.UserDataClass.retrieveFromJsonFile() -&gt; Swift.Array&lt;__C.NSDictionary&gt;"
+                  moduleName = "iOSSample"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/prabhakarbunga/Desktop/Haasan%20Practice/iOSSample/iOSSample/UserDataClass.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "92"
+                  endingLineNumber = "92"
+                  offsetFromSymbolStart = "1424">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "0278B48C-0B16-4BB1-80E6-631210D02C69"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "iOSSample/UserDataClass.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "64"
+            endingLineNumber = "64"
+            landmarkName = "registeruser(user:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "0278B48C-0B16-4BB1-80E6-631210D02C69 - 7976195b66a347f8"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "iOSSample.UserDataClass.registeruser(user: __C.NSDictionary) -&gt; Swift.Bool"
+                  moduleName = "iOSSample"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/prabhakarbunga/Desktop/Haasan%20Practice/iOSSample/iOSSample/UserDataClass.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "64"
+                  endingLineNumber = "64"
+                  offsetFromSymbolStart = "2144">
+               </Location>
+               <Location
+                  uuid = "0278B48C-0B16-4BB1-80E6-631210D02C69 - 7976195b66a347f8"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "iOSSample.UserDataClass.registeruser(user: __C.NSDictionary) -&gt; Swift.Bool"
+                  moduleName = "iOSSample"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/prabhakarbunga/Desktop/Haasan%20Practice/iOSSample/iOSSample/UserDataClass.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "64"
+                  endingLineNumber = "64"
+                  offsetFromSymbolStart = "3452">
+               </Location>
+               <Location
+                  uuid = "0278B48C-0B16-4BB1-80E6-631210D02C69 - 7976195b66a347b6"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "iOSSample.UserDataClass.registeruser(user: __C.NSDictionary) -&gt; Swift.Bool"
+                  moduleName = "iOSSample"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/prabhakarbunga/Desktop/Haasan%20Practice/iOSSample/iOSSample/UserDataClass.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "66"
+                  endingLineNumber = "66"
+                  offsetFromSymbolStart = "4180">
+               </Location>
+               <Location
+                  uuid = "0278B48C-0B16-4BB1-80E6-631210D02C69 - 7976195b66a347b6"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "iOSSample.UserDataClass.registeruser(user: __C.NSDictionary) -&gt; Swift.Bool"
+                  moduleName = "iOSSample"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/prabhakarbunga/Desktop/Haasan%20Practice/iOSSample/iOSSample/UserDataClass.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "66"
+                  endingLineNumber = "66"
+                  offsetFromSymbolStart = "4140">
+               </Location>
+               <Location
+                  uuid = "0278B48C-0B16-4BB1-80E6-631210D02C69 - 7976195b66a347b6"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "iOSSample.UserDataClass.registeruser(user: __C.NSDictionary) -&gt; Swift.Bool"
+                  moduleName = "iOSSample"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/prabhakarbunga/Desktop/Haasan%20Practice/iOSSample/iOSSample/UserDataClass.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "66"
+                  endingLineNumber = "66"
+                  offsetFromSymbolStart = "4100">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "12386435-1EC8-4F7F-9983-285EF4C98039"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "iOSSample/UserDataClass.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "62"
+            endingLineNumber = "62"
+            landmarkName = "registeruser(user:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "12386435-1EC8-4F7F-9983-285EF4C98039 - 7976195b66a347f8"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "iOSSample.UserDataClass.registeruser(user: __C.NSDictionary) -&gt; Swift.Bool"
+                  moduleName = "iOSSample"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/prabhakarbunga/Desktop/Haasan%20Practice/iOSSample/iOSSample/UserDataClass.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "64"
+                  endingLineNumber = "64"
+                  offsetFromSymbolStart = "2144">
+               </Location>
+               <Location
+                  uuid = "12386435-1EC8-4F7F-9983-285EF4C98039 - 7976195b66a3473a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "iOSSample.UserDataClass.registeruser(user: __C.NSDictionary) -&gt; Swift.Bool"
+                  moduleName = "iOSSample"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/prabhakarbunga/Desktop/Haasan%20Practice/iOSSample/iOSSample/UserDataClass.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "62"
+                  endingLineNumber = "62"
+                  offsetFromSymbolStart = "2236">
+               </Location>
+               <Location
+                  uuid = "12386435-1EC8-4F7F-9983-285EF4C98039 - 7976195b66a347f8"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "iOSSample.UserDataClass.registeruser(user: __C.NSDictionary) -&gt; Swift.Bool"
+                  moduleName = "iOSSample"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/prabhakarbunga/Desktop/Haasan%20Practice/iOSSample/iOSSample/UserDataClass.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "64"
+                  endingLineNumber = "64"
+                  offsetFromSymbolStart = "2964">
+               </Location>
+               <Location
+                  uuid = "12386435-1EC8-4F7F-9983-285EF4C98039 - 7976195b66a347f8"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "iOSSample.UserDataClass.registeruser(user: __C.NSDictionary) -&gt; Swift.Bool"
+                  moduleName = "iOSSample"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/prabhakarbunga/Desktop/Haasan%20Practice/iOSSample/iOSSample/UserDataClass.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "64"
+                  endingLineNumber = "64"
+                  offsetFromSymbolStart = "2924">
+               </Location>
+               <Location
+                  uuid = "12386435-1EC8-4F7F-9983-285EF4C98039 - 7976195b66a347f8"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "iOSSample.UserDataClass.registeruser(user: __C.NSDictionary) -&gt; Swift.Bool"
+                  moduleName = "iOSSample"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/prabhakarbunga/Desktop/Haasan%20Practice/iOSSample/iOSSample/UserDataClass.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "64"
+                  endingLineNumber = "64"
+                  offsetFromSymbolStart = "2884">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "C5A4A170-981D-418E-8967-4D86E1103DA2"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "iOSSample/UserDataClass.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "43"
+            endingLineNumber = "43"
+            landmarkName = "registeruser(user:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "C5A4A170-981D-418E-8967-4D86E1103DA2 - 7976195b66a344af"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "iOSSample.UserDataClass.registeruser(user: __C.NSDictionary) -&gt; Swift.Bool"
+                  moduleName = "iOSSample"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/prabhakarbunga/Desktop/Haasan%20Practice/iOSSample/iOSSample/UserDataClass.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "43"
+                  endingLineNumber = "43"
+                  offsetFromSymbolStart = "712">
+               </Location>
+               <Location
+                  uuid = "C5A4A170-981D-418E-8967-4D86E1103DA2 - 7976195b66a344af"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "iOSSample.UserDataClass.registeruser(user: __C.NSDictionary) -&gt; Swift.Bool"
+                  moduleName = "iOSSample"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/prabhakarbunga/Desktop/Haasan%20Practice/iOSSample/iOSSample/UserDataClass.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "43"
+                  endingLineNumber = "43"
+                  offsetFromSymbolStart = "748">
+               </Location>
+               <Location
+                  uuid = "C5A4A170-981D-418E-8967-4D86E1103DA2 - 7976195b66a344af"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "iOSSample.UserDataClass.registeruser(user: __C.NSDictionary) -&gt; Swift.Bool"
+                  moduleName = "iOSSample"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/prabhakarbunga/Desktop/Haasan%20Practice/iOSSample/iOSSample/UserDataClass.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "43"
+                  endingLineNumber = "43"
+                  offsetFromSymbolStart = "628">
+               </Location>
+               <Location
+                  uuid = "C5A4A170-981D-418E-8967-4D86E1103DA2 - 7976195b66a344af"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "iOSSample.UserDataClass.registeruser(user: __C.NSDictionary) -&gt; Swift.Bool"
+                  moduleName = "iOSSample"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/prabhakarbunga/Desktop/Haasan%20Practice/iOSSample/iOSSample/UserDataClass.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "43"
+                  endingLineNumber = "43"
+                  offsetFromSymbolStart = "612">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "72010499-F1D4-424E-9541-5F7356B36175"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "iOSSample/UserDataClass.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "103"
+            endingLineNumber = "103"
+            landmarkName = "isUserValide(email_id:password:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "72010499-F1D4-424E-9541-5F7356B36175 - 62c34a7b41ace170"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "iOSSample.UserDataClass.isUserValide(email_id: Swift.String, password: Swift.String) -&gt; Swift.Bool"
+                  moduleName = "iOSSample"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/prabhakarbunga/Desktop/Haasan%20Practice/iOSSample/iOSSample/UserDataClass.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "105"
+                  endingLineNumber = "105"
+                  offsetFromSymbolStart = "1436">
+               </Location>
+               <Location
+                  uuid = "72010499-F1D4-424E-9541-5F7356B36175 - 62c34a7b41ace0ae"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "iOSSample.UserDataClass.isUserValide(email_id: Swift.String, password: Swift.String) -&gt; Swift.Bool"
+                  moduleName = "iOSSample"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/prabhakarbunga/Desktop/Haasan%20Practice/iOSSample/iOSSample/UserDataClass.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "107"
+                  endingLineNumber = "107"
+                  offsetFromSymbolStart = "1436">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "77F365B1-C055-405D-9FE1-3E42075CD98C"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "iOSSample/UserDataClass.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "55"
+            endingLineNumber = "55"
+            landmarkName = "registeruser(user:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
